@@ -6,12 +6,15 @@
 
 ✅I use Postman, DevTools, VSCode, Android Studio, Github, Redmain, Jira;
 
-✅Would like to join an innovative and collaborative team;
-
 ✅Positive, patient, persistent, team player;
 
 ✅Highly motivated to learn.
 
+📌For example: 
+
+📑 [Check lists](https://docs.google.com/spreadsheets/d/1biSCmMET3ZxLPdHxkFkdmxXKPrlYELuC0YZOwP9ujEA/edit?usp=sharing) 
+
+🐞 [Bug reports](https://docs.google.com/spreadsheets/d/1Rq6vvr3sJN9YrYn6NkkloNTGwy0qlDJO_ibeEJ-4Suw/edit?usp=sharing)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -19,6 +22,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+Would like to join an innovative and collaborative team!
+
 ###
 <!--
 **alex-khitrova/alex-khitrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
